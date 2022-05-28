@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446523655507",
+    "project_id": "fir-notification-19496",
+    "storage_bucket": "fir-notification-19496.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446523655507:android:0c6e8243b14d70300dcda6",
+        "android_client_info": {
+          "package_name": "com.psychonaut.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446523655507-e2863h005m2jnk888frrki89e8kup16i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP-ad9L12MxvK6hmHXquk8d0skNhBjN5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446523655507-e2863h005m2jnk888frrki89e8kup16i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
